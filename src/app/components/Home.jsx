@@ -4,7 +4,7 @@ import { Text } from "./Text";
 
 export default function Guitar() {
   return (
-    <main className="bg-[#212121]">
+    <main className="bg-[#0A0A0A]">
       <h1 className="flex justify-center items-center">
         <Text />
       </h1>
